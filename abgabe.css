@@ -8,7 +8,7 @@ html {
 #philosophy-body {
     margin: 0;
     padding: 0;
-    background-image: url('ninis.jpg');
+    background-image: url('bilder/ninis.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -22,7 +22,7 @@ html {
 #openinghours-body {
     margin: 0;
     padding: 0;
-    background-image: url('hintergrundblumen.jpg');
+    background-image: url('bilder/hintergrundblumen.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -37,7 +37,7 @@ html {
 #findus-body {
     margin: 0;
     padding: 0;
-    background-image: url('hintergrundblumen.jpg');
+    background-image: url('bilder/hintergrundblumen.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;

@@ -96,7 +96,7 @@ section
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	background-image: url(bilder/hintergrundblumen.jpg);
+	background-image: url(hintergrundblumen.jpg);
 	height: 60vh;
 	background-size: cover;
 	background-position: center;
